@@ -16,5 +16,8 @@ Create a general channel for pinging the status of scans and paste the discord t
 
 Customize the iterations in the main for loop according to your needs.(Since I had less ram, I made one run on even number of files and other on Odd).
 
+Once all the above is done,Just run
+python3 script.py
+
 ## Eg File Format
 file00.txt,file21.txt...
